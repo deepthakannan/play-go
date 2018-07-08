@@ -5,5 +5,5 @@ import(
 )
 
 func main() {
-	println("Go world!")
+	println("Go world!");
 }
