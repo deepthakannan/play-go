@@ -1,9 +1,11 @@
-package main
+package main /* package declaration */
 
-import(
-	//"fmt"
-)
+/* Import Packages */
 
+//"fmt"
+
+/* Functions */
 func main() {
-	println("Go world!");
+	goWorld := "Go world!" /* Variables (type inferred) */
+	println(goWorld)       /* Statements and Expressions */
 }
